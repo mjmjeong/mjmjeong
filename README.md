@@ -6,8 +6,8 @@
 </p>
 
 <p>
-   Hi there! 👋&nbsp;<br/>
-  I'm a graduate student in Computer Vision Lab, Seoul National Unversity.👩‍💻<br/>
+   Hi there! 👋<br/><br/>
+  I'm a graduate student in <b>Computer Vision Lab, Seoul National Unversity</b>.👩‍💻<br/><br/>
 </p>
 
 ### 🔥 Research Interest
