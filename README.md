@@ -10,14 +10,21 @@
   I'm a graduate student in Computer Vision Lab, Seoul National Unversity. 🚀<br/>
 </p>
 
-#### 💪 Skills
+### 😀 Research Interest
+Neural Rendering, Few-Shot Learning, Human/Scene Reconstruction,</br>
+Computer Vision, 3D Vision, Deep Learning
+
+### 💪 Skills
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-</p>  
+</p> 
+
+#### Libraries & Tools
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
