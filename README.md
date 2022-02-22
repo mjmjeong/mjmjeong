@@ -7,10 +7,10 @@
 
 <p>
    Hi there! 👋&nbsp;<br/>
-  I'm a graduate student in Computer Vision Lab, Seoul National Unversity. 🚀<br/>
+  I'm a graduate student in Computer Vision Lab, Seoul National Unversity.👩‍💻<br/>
 </p>
 
-### 😀 Research Interest
+### 🔥 Research Interest
 Neural Rendering, Few-Shot Learning, Human/Scene Reconstruction,</br>
 Computer Vision, 3D Vision, Deep Learning
 
