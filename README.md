@@ -1,5 +1,5 @@
 <p>
-  <a href="http://mjmjeong.github.io/index.html" target="_blank"><img src="https://img.shields.io/badge/Homepage-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://mjmjeong.github.io" target="_blank"><img src="https://img.shields.io/badge/Homepage-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
     <a href="https://scholar.google.co.kr/citations?user=oivYtGEAAAAJ&hl=en/" target="_blank"><img src="https://img.shields.io/badge/scholar-4285F4?style=flat-square&logo=Google Scholar&logoColor=white"/></a>
   <a href="mailto:mijeong.kim@snu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/mijeong.kim@snu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
